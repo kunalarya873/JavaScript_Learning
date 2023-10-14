@@ -100,7 +100,7 @@ To get started with this repository:
    cd python-problems
 
 <p align="center">
-  <img src="https://thumbs.dreamstime.com/z/logotipo-do-javascript-136765881.jpg" alt="Course Logo" >
+  <img src="https://thumbs.dreamstime.com/z/logotipo-do-javascript-136765881.jpg" alt="Course Logo" width=100 >
 </p>
 
 [![Made with ❤️ by Your Name](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Kunal%20Arya-blue)](https://github.com/kunalarya873)
