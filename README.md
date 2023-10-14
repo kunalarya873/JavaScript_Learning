@@ -88,6 +88,17 @@ This course and its content are licensed under the Creative Commons Attribution-
 
 ---
 
+
+<!-- Getting Started Section -->
+## Getting Started
+
+To get started with this repository:
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/kunalarya873/JavaScript_Learning
+   cd python-problems
+
 <p align="center">
   <img src="https://thumbs.dreamstime.com/z/logotipo-do-javascript-136765881.jpg" alt="Course Logo" >
 </p>
