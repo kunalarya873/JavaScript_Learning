@@ -97,7 +97,6 @@ To get started with this repository:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/kunalarya873/JavaScript_Learning
-   cd python-problems
 
 <p align="center">
   <img src="https://thumbs.dreamstime.com/z/logotipo-do-javascript-136765881.jpg" alt="Course Logo" width=100 >
