@@ -8,5 +8,11 @@ const test = function(){
 const test2 = function(){
 	console.log("Now I get attention");
 };
+const test3 = () => {
+	console.log("checking nfn");
+	
+};
+
 test();
 test2();
+test3();
